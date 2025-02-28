@@ -1,5 +1,7 @@
-## Hi there 👋
+## Sasha Cattaneo university account
+I use this github account to work on university projects, not for personal projects.
 
+Currently I am studying IT Engeneering. 
 <!--
 **sasha-cattaneo/sasha-cattaneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
